@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,EB2103,1730559805517,2024-11-02_15-03-25,Europe/Rome,android,1.39.0,c3b1c393-2099-4621-a0db-854d8b926deb,Accelerometer|Gyroscope|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10||10|10|10,false
